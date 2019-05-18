@@ -1,0 +1,22 @@
+{
+  "name": "reactdev",
+  "version": "1.0.0",
+  "description": "React Test and Tutorials",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushpandey/ReactDev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayushpandey/ReactDev/issues"
+  },
+  "homepage": "https://github.com/ayushpandey/ReactDev#readme",
+  "dependencies": {
+    "create-react-app": "^3.0.1"
+  }
+}
